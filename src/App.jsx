@@ -67,7 +67,7 @@ function LandingPage() {
           </a>
         </div>
         <div className="container model1">
-          <img src="model1.png" alt="Image" height="700px" />
+          <img src="model1_crop.png" alt="Image"/>
         </div>
         <div className="container pink-circle-container-full">
         </div>
